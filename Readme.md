@@ -29,35 +29,35 @@ Kullanıcıları sade ve karanlık mod (Dark Mode) destekli, göz yormayan bir a
 </p>
 
 ### 2. Ana Sayfa (İlan Akışı)
-Uygulamanın kalbi burasıdır. Kullanıcılar üst kısımdaki kategorileri kullanarak filtreleme yapabilir. İlan kartlarında; ilanı açan kişi, lokasyon, tarih/saat ve kaç kişi arandığı gibi kritik bilgiler tek bakışta görülür.
+Uygulamanın kalbi burasıdır. Kullanıcılar üst kısımdaki kategorileri kullanarak filtreleme yapabilir. İlan kartlarında; ilanı açan kişi, lokasyon, tarih/saat ve kaç kişi arandığı gibi kritik bilgiler tek bakışta görülür. Arama kısmındanda istediği özelliğe göre filtreleyebilir.
 
 <p align="center">
-  <img src="assets/anasayfa.jpg" width="250" />
+  <img src="assets/anasayfa.png" width="250" />
 </p>
 
 ### 3. İlan Oluşturma
-Sadece birkaç saniye içinde ihtiyacın olan oyuncuyu bulmak için ilan açabilirsin. Gerekli veriler girildikten sonra alt kısımdaki "Önizleme" kartı sayesinde ilanın nasıl görüneceği anında test edilir.
+Sadece birkaç saniye içinde ihtiyacın olan oyuncuyu bulmak için ilan açabilirsin. Gerekli veriler girildikten sonra alt kısımdaki "Önizleme" kartı sayesinde ilanın nasıl görüneceği anında test edilir. Oluşturduğun ilanı daha sonradan düzenleyebilirsin mesela 3 kişi lazımdı yorum atanlardan biri ile okeylediniz sayıyı 2 ye düşürebilirsin.
 
 <p align="center">
-  <img src="assets/ilan_olustur.jpg" width="250" />
+  <img src="assets/ilan_olustur.png" width="250" />
 </p>
 
 ### 4. İlan Detayları, Etkileşim ve Bildirimler
-Kullanıcılar ilan detaylarında yorumlar üzerinden iletişime geçebilir. Maç bittikten sonra "Bu ilana puan ver" slider'ı üzerinden değerlendirme yapılabilir. Bildirimler sekmesi ile etkileşimler anlık takip edilir.
+Kullanıcılar ilan detaylarında yorumlar üzerinden iletişime geçebilir. Maç bittikten sonra "Bu ilana puan ver" slider'ı üzerinden değerlendirme yapılabilir. Bildirimler sekmesi ile etkileşimler anlık takip edebilirler.
 
 <p align="center">
-  <img src="assets/ilan_detay.jpg" width="250" />
+  <img src="assets/ilan_detay.png" width="250" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/bildirimler.jpg" width="250" />
+  <img src="assets/bildirimler.png" width="250" />
 </p>
 
 ### 5. Profil ve Güven Sistemi
 Profilde aktif/geçmiş ilanlar, "Hakkında" yazısı ve platformdaki en önemli metrik olan **Güven Puanı** yer alır. Güven puanı, kullanıcının katıldığı etkinliklerden aldığı değerlendirmelere göre şekillenir.
 
 <p align="center">
-  <img src="assets/profil.jpg" width="250" />
+  <img src="assets/profil.png" width="250" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/profil_duzenle.jpg" width="250" />
+  <img src="assets/profil_duzenle.png" width="250" />
 </p>
 
 ---
