@@ -23,9 +23,9 @@ Oyun Arkadaşım ile kullanıcılar aradıkları branşta (Futbol, Basketbol, Te
 Kullanıcıları sade ve karanlık mod (Dark Mode) destekli, göz yormayan bir arayüz karşılıyor. Kullanıcılar güvenli bir şekilde hesap oluşturup sisteme dahil olabilirler.
 
 <p align="center">
-  <img src="assets/giris.jpg" width="250" />
+  <img src="assets/giris.png" width="250" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/kayit.jpg" width="250" />
+  <img src="assets/kayit.png" width="250" />
 </p>
 
 ### 2. Ana Sayfa (İlan Akışı)
